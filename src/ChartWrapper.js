@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import D3Chart from './D3Chart';
+import D3Chart from './D3Chart-example-02';
 
 const ChartWrapper = () => {
   const chartRef = useRef(null);
